@@ -3,3 +3,4 @@
 # test update
 requests
 python-dotenv
+aiohttp
