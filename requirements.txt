@@ -1,5 +1,3 @@
 # test comment
 # test new line
 # test update
-python-dotenv
-requests
