@@ -6,3 +6,7 @@ def new_endpoint(number: int):
         :return: result
     """
     return number + 1
+
+
+def new_endpoint_two(number: int):
+    return number + 1
