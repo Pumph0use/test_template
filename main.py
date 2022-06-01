@@ -22,12 +22,6 @@ def compute(firstNumber: float, secondNumber: float):
 
 
 def compute_two(firstNumber: float, secondNumber: float):
-    """
-        This is a test doc string
-        :param firstNumber: The first number
-        :param secondNumber: The second number
-        :return: result
-    """
     result = firstNumber + secondNumber
 
     return result
