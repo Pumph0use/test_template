@@ -22,10 +22,12 @@ def compute(firstNumber: float, secondNumber: float):
 
 
 def compute_two(firstNumber: float, secondNumber: float):
-    # Compute the add
-    # Random comment to get a new commit
-    # another new commit line
-    # test update line
+    """
+        This is a test doc string
+        :param firstNumber: The first number
+        :param secondNumber: The second number
+        :return: result
+    """
     result = firstNumber + secondNumber
 
     return result
