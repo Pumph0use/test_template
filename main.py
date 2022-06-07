@@ -8,12 +8,6 @@ import rasterio
 #aldjal;ksjdasdasdfasdasdfasdfasdasdfasdfadf
 #wee woo wee woo
 def compute(firstNumber: float, secondNumber: float):
-    """
-
-    :param firstNumber:
-    :param secondNumber:
-    :return:
-    """
     # Compute the add
     # Random comment to get a new commit
     # another new commit line
