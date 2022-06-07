@@ -6,6 +6,7 @@ import rasterio
 #alsdjfa;lsdjflkajasdfasdf
 #adfasdfasdasdfaasdfadsafsdfqwerqwer
 #aldjal;ksjdasdasdfasdasdfasdfasdasdfasdfadf
+#wee woo wee woo
 def compute(firstNumber: float, secondNumber: float):
     """
     This is a test doc string
