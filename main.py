@@ -1,5 +1,6 @@
 import requests
 import geopandas
+import rasterio
 #blah blah updates blah blah blah
 #blahbladljflasjdrakhwetlkah
 #alsdjfa;lsdjflkajasdfasdf
